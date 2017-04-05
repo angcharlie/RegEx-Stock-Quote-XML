@@ -1,0 +1,40 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 "/Users/Charlie/Google Drive/CSC 4800/Lab4/getQuotes.py"
+Enter a Stock Symbol: msft
+"msft","2/1/2017","1:58pm",63.565,63.560,63.570,"48.035 - 65.910","63.470 - 64.620",-1.085,18188423,7727529000
+
+<stockquote>
+	<qSymbol>msft</qSymbol>
+	<qDate>2/1/2017</qDate>
+	<qTime>1:58pm</qTime>
+	<qLastSalePrice>63.565</qLastSalePrice>
+	<qBidPrice>63.560</qBidPrice>
+	<qAskPrice>63.570</qAskPrice>
+	<q52WeekLow>48.035</q52WeekLow>
+	<q52WeekHigh>65.910</q52WeekHigh>
+	<qTodaysLow>63.470</qTodaysLow>
+	<qTodaysHigh>64.620</qTodaysHigh>
+	<qNetChangePrice>-1.085</qNetChangePrice>
+	<qShareVolumeQty>18188423</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>7727529000</qTotalOutstandingSharesQty>
+</stockquote>
+
+Enter a Stock Symbol: kkd
+"kkd","7/27/2016","3:00pm",21.00,N/A,N/A,"12.90 - 21.75",N/A,+0.00,0,N/A
+
+<stockquote>
+	<qSymbol>kkd</qSymbol>
+	<qDate>7/27/2016</qDate>
+	<qTime>3:00pm</qTime>
+	<qLastSalePrice>21.00</qLastSalePrice>
+	<q52WeekLow>12.90</q52WeekLow>
+	<q52WeekHigh>21.75</q52WeekHigh>
+	<qNetChangePrice>+0.00</qNetChangePrice>
+	<qShareVolumeQty>0</qShareVolumeQty>
+</stockquote>
+
+Enter a Stock Symbol: zzd
+"zzd",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+
+Unknown stock symbol: match failed
+
+Enter a Stock Symbol: 

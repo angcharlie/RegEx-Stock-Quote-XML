@@ -1,0 +1,42 @@
+Enter a Stock Symbol: 
+msft
+"msft","1/25/2017","12:44pm",63.73,63.73,63.74,"48.03 - 64.10","63.49 - 64.10",+0.21,10653380,7775350000
+
+<stockquote>
+	<qSymbol>msft</qSymbol>
+	<qDate>1/25/2017</qDate>
+	<qTime>12:44pm</qTime>
+	<qLastSalePrice>63.73</qLastSalePrice>
+	<qBidPrice>63.73</qBidPrice>
+	<qAskPrice>63.74</qAskPrice>
+	<q52WeekLow>48.03</q52WeekLow>
+	<q52WeekHigh>64.10</q52WeekHigh>
+	<qTodaysLow>63.49</qTodaysLow>
+	<qTodaysHigh>64.10</qTodaysHigh>
+	<qNetChangePrice>+0.21</qNetChangePrice>
+	<qShareVolumeQty>10653380</qShareVolumeQty>
+	<qTotalOutstandingSharesQty>7775350000</qTotalOutstandingSharesQty>
+</stockQuote>
+
+Enter a Stock Symbol: 
+kkd
+"kkd","7/27/2016","3:00pm",21.00,N/A,N/A,"12.90 - 21.75",N/A,+0.00,0,N/A
+
+<stockquote>
+	<qSymbol>kkd</qSymbol>
+	<qDate>7/27/2016</qDate>
+	<qTime>3:00pm</qTime>
+	<qLastSalePrice>21.00</qLastSalePrice>
+	<q52WeekLow>12.90</q52WeekLow>
+	<q52WeekHigh>21.75</q52WeekHigh>
+	<qNetChangePrice>+0.00</qNetChangePrice>
+	<qShareVolumeQty>0</qShareVolumeQty>
+</stockQuote>
+
+Enter a Stock Symbol: 
+zzd
+"zzd",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+
+Unknown symbol: match failed
+
+Enter a Stock Symbol: 
